@@ -46,7 +46,6 @@ with my_graph.as_default():
 丢弃（dropout）和完全连接（fully connected）的层。最后，完成在样本图片进行神经网络的预测。
 数据集下载地址[CIFAR-10 数据集（Python版）](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)。
 
-项目提交：11月6日，提交到邮箱 yingjun@ibeifeng.com。
 要求：1、源码；
       2、测试数据集的准确率截图（需要大于50%）
       3、（可选） 计算你设计的模型的参数量。
